@@ -1,0 +1,129 @@
+{
+  "Africa": {
+    "Northern Africa": [
+      "Moroccan",
+      "Algerian",
+      "Egyptian",
+      "Tunisian",
+      "North African"
+    ],
+    "Western Africa": ["West African"],
+    "Eastern Africa": ["East African", "Ethiopian"],
+    "Southern Africa": ["South African"],
+    "General": ["African"]
+  },
+  "Asia": {
+    "East Asia": [
+      "Chinese",
+      "Cantonese",
+      "Sichuan",
+      "Japanese",
+      "Japanese Inspired",
+      "Korean",
+      "Mongolian"
+    ],
+    "Southeast Asia": [
+      "Filipino",
+      "Indonesian",
+      "Malaysian",
+      "Singaporean",
+      "Thai",
+      "Thai Inspired",
+      "Vietnamese"
+    ],
+    "Indian Subcontinent": [
+      "Indian",
+      "Indian Inspired",
+      "Pakistani",
+      "Bangladeshi",
+      "Sri Lankan"
+    ],
+    "South Asis": ["Afghan"],
+    "Central Asia / Middle East": [
+      "Middle Eastern",
+      "Middle Eastern Inspired",
+      "Persian",
+      "Iranian",
+      "Israeli",
+      "Syrian",
+      "Lebanese",
+      "Turkish",
+      "Armenian"
+    ],
+    "General": [
+      "Asian",
+      "Asian Inspired",
+      "East And Southeast Asian",
+      "South And Central Asian"
+    ]
+  },
+  "Europe": {
+    "Northern Europe": ["Scottish"],
+    "Western Europe": [
+      "British",
+      "French",
+      "French Inspired",
+      "French Canadian",
+      "Belgian",
+      "Dutch",
+      "Swiss",
+      "German",
+      "Austrian",
+      "Irish"
+    ],
+    "Southern Europe": [
+      "Italian",
+      "Italian Inspired",
+      "Sicilian",
+      "Spanish",
+      "Portuguese",
+      "Greek",
+      "Greek Inspired",
+      "Mediterranean",
+      "Mediterranean Inspired"
+    ],
+    "Eastern Europe": [
+      "Eastern European",
+      "Russian",
+      "Ukrainian",
+      "Polish",
+      "Hungarian",
+      "Czech",
+      "Scandinavian",
+      "Finnish",
+      "Swedish",
+      "Danish",
+      "Norwegian"
+    ],
+    "Other": ["Jewish", "European", "UK And Ireland"]
+  },
+  "North America": {
+    "United States / General": [
+      "American",
+      "U.S.",
+      "Native American",
+      "New England",
+      "Southern",
+      "Southwestern",
+      "Tex-Mex",
+      "Cajun",
+      "Cajun And Creole",
+      "Creole",
+      "Pennsylvania Dutch"
+    ],
+    "Canada": ["Canadian"],
+    "Mexico / Mexican Influence": ["Mexican", "Mexican Inspired"],
+    "Caribbean": ["Caribbean", "Jamaican", "Cuban", "Puerto Rican"]
+  },
+  "South America": [
+    "Brazilian",
+    "Argentinian",
+    "Colombian",
+    "Chilean",
+    "Peruvian",
+    "Venezuelan",
+    "Latin American"
+  ],
+  "Oceania": ["Australian", "New Zealand", "Maori", "Oceanic", "Fijian"],
+  "Other / Global": ["Inspired", "Fusion", "Other", "World", "Copycat"]
+}

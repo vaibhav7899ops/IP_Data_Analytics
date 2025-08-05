@@ -1,0 +1,656 @@
+Afghan
+African
+African, Middle Eastern
+African, Moroccan
+African, South American
+Algerian, African
+Algerian, Middle Eastern, African
+American
+American, Argentinian, Australian, Brazilian, British, Chinese, French, Greek, Japanese, Korean, Portuguese, Vietnamese
+American, Asian
+American, Asian, Australian, Chinese
+American, Australian
+American, Australian, British
+American, Australian, British, French
+American, Australian, British, Italian
+American, Australian, Chinese
+American, Australian, European
+American, Australian, French
+American, Australian, Italian
+American, British
+American, British, Australian
+American, Cajun
+American, Cajun, Creole
+American, Caribbean
+American, Caribbean, Jamaican
+American, Chinese
+American, Copycat
+American, Creole
+American, Creole, Cajun
+American, Eastern European
+American, Eastern European, French
+American, Eastern European, Scandinavian
+American, European
+American, European, Italian
+American, European, Spanish
+American, French
+American, Fusion
+American, Fusion, Italian
+American, Fusion, Japanese
+American, Fusion, Scandinavian
+American, German
+American, Greek
+American, Indian
+American, Irish
+American, Irish, Kosher
+American, Italian
+American, Japanese
+American, Latin
+American, Latin, Caribbean
+American, Mexican
+American, Mexican, Fusion
+American, Mexican, South American
+American, Mexican, Tex-Mex
+American, Middle Eastern
+American, Polish
+American, Scandinavian
+American, South American
+American, Southern
+American, Spanish
+American, Tex-Mex
+American, Tex-Mex, Mexican
+American, Turkish
+Amish
+Amish, American
+Amish, American, German
+Argentine
+Argentine, Latin
+Argentine, Latin, South American
+Argentine, Mexican
+Argentine, South American
+Argentine, South American, Latin
+Argentinian
+Argentinian, South American
+Armenian
+Armenian, Eastern European
+Armenian, Middle Eastern
+Asian
+Asian Inspired
+Asian Inspired, American
+Asian Inspired, American, Asian
+Asian Inspired, American, Fusion
+Asian Inspired, Asian
+Asian Inspired, Asian, American
+Asian Inspired, Asian, Chinese
+Asian Inspired, Asian, Thai
+Asian Inspired, Chinese
+Asian Inspired, Fusion
+Asian Inspired, Hawaiian
+Asian Inspired, Japanese
+Asian Inspired, Korean
+Asian Inspired, Middle Eastern
+Asian Inspired, Thai
+Asian Inspired, Vietnamese
+Asian, American
+Asian, Australian
+Asian, Australian, Chinese
+Asian, Australian, European
+Asian, Australian, Indian
+Asian, Australian, Japanese
+Asian, Australian, Korean
+Asian, Australian, Malaysian
+Asian, Australian, Vietnamese
+Asian, British
+Asian, British, Indian
+Asian, Cantonese
+Asian, Caribbean
+Asian, Chinese
+Asian, Chinese, German, Italian, Korean
+Asian, Chinese, Indian, Japanese, Korean, Malaysian, Turkish, Vietnamese
+Asian, Chinese, Indonesian
+Asian, Chinese, Indonesian, Malaysian
+Asian, Chinese, Japanese
+Asian, Chinese, Japanese, Korean, Vietnamese
+Asian, Chinese, Korean
+Asian, Chinese, Korean, Vietnamese
+Asian, Chinese, Malaysian
+Asian, Chinese, Mongolian
+Asian, Chinese, Spanish
+Asian, Chinese, Vietnamese
+Asian, Copycat
+Asian, European, Spanish
+Asian, French
+Asian, German
+Asian, Indian
+Asian, Indian, Indonesian, Malaysian
+Asian, Indian, Lebanese, Middle Eastern
+Asian, Indian, Malaysian
+Asian, Indian, Middle Eastern
+Asian, Indonesian
+Asian, Indonesian, Malaysian
+Asian, Japanese
+Asian, Japanese, Korean
+Asian, Japanese, Malaysian
+Asian, Japanese, Mediterranean
+Asian, Japanese, Mexican
+Asian, Japanese, Portuguese
+Asian, Korean
+Asian, Korean, Mexican
+Asian, Lebanese, Middle Eastern
+Asian, Malaysian
+Asian, Malaysian, Vietnamese
+Asian, Mexican
+Asian, Middle Eastern
+Asian, Mongolian
+Asian, Singaporean
+Asian, Spanish
+Asian, Sri Lankan
+Asian, Thai
+Asian, Vietnamese
+Australian
+Australian, British
+Australian, British, European
+Australian, British, French
+Australian, Chinese
+Australian, European
+Australian, European, German, Indonesian, South American
+Australian, European, Mediterranean
+Australian, French
+Australian, French, Italian
+Australian, German
+Australian, Greek
+Australian, Indian
+Australian, Italian
+Australian, Italian, Mediterranean
+Australian, Japanese
+Australian, Mediterranean
+Australian, Mediterranean, Middle Eastern
+Australian, Mexican
+Australian, Middle Eastern
+Australian, Moroccan
+Australian, South American
+Australian, Spanish
+Australian, Sri Lankan
+Australian, Turkish
+Australian, Vietnamese
+Austrian
+Austrian, American
+Austrian, Eastern European
+Austrian, German
+Bangladeshi
+Belgian
+Belgian, Dutch
+Belgian, French
+Belgian, Scandinavian
+Brazilian
+Brazilian, Portuguese
+Brazilian, South American
+Brazilian, South American, Latin
+British
+British, American
+British, European
+British, European, French
+British, European, German
+British, European, German, Lebanese, Middle Eastern
+British, European, Irish
+British, French
+British, Greek
+British, Hungarian
+British, Indian
+British, Irish
+British, Irish, Scottish
+British, Mexican
+British, Moroccan
+British, Spanish
+Cajun
+Cajun And Creole
+Canadian
+Canadian, American
+Canadian, American, Fusion
+Canadian, British
+Canadian, Caribbean
+Canadian, Chinese
+Canadian, Eastern European
+Canadian, French
+Canadian, Irish
+Cantonese
+Cantonese, Chinese
+Caribbean
+Caribbean, Jamaican
+Caribbean, Latin
+Caribbean, Mexican
+Caribbean, South American
+Chilean
+Chilean, South American
+Chilean, Spanish
+Chinese
+Chinese Inspired, Asian
+Chinese Inspired, Asian, Chinese
+Chinese Inspired, Chinese
+Chinese, Asian
+Chinese, Japanese
+Chinese, Japanese, Korean
+Chinese, Vietnamese
+Colombian
+Colombian, American
+Colombian, South American
+Colombian, South American, Latin
+Copycat
+Copycat, American
+Copycat, Mexican
+Creole
+Creole, American
+Cuban
+Cuban, American
+Cuban, American, Caribbean
+Cuban, American, Mexican
+Cuban, Caribbean
+Cuban, Caribbean, Latin
+Cuban, Latin
+Cuban, Mexican
+Czech
+Czech, Eastern European
+Danish
+Danish, American
+Danish, Scandinavian
+Dutch
+Dutch, African
+East African
+East African, African
+East And Southeast Asian
+East And Southeast Asian, Asian
+Eastern European
+Eastern European, American
+Eastern European, French
+Eastern European, Polish
+Egyptian
+Egyptian, Middle Eastern
+English
+English, African
+English, American
+English, British
+Ethiopian
+Ethiopian, African
+European
+European, American
+European, Eastern European
+European, French
+European, French, Mediterranean
+European, German
+European, Greek
+European, Greek, Lebanese, Middle Eastern, Turkish
+European, Greek, Mediterranean
+European, Hungarian
+European, Hungarian, Portuguese, Spanish
+European, Indian
+European, Irish
+European, Italian
+European, Italian, Mediterranean
+European, Mediterranean
+European, Mediterranean, Spanish
+European, Moroccan
+European, Portuguese
+European, Portuguese, Spanish
+European, Russian
+European, Russian, Turkish
+European, Spanish
+European, Turkish
+Fijian
+Filipino
+Filipino, American
+Filipino, Asian
+Filipino, Asian, Latin
+Filipino, Fusion
+Filipino, Latin
+Finnish
+Finnish, American
+Finnish, Copycat
+Finnish, Scandinavian
+French
+French Canadian
+French Canadian, American
+French Canadian, French
+French Inspired
+French Inspired, American
+French Inspired, American, French
+French Inspired, French
+French, American
+French, Italian
+French, Lebanese, Middle Eastern
+French, Mediterranean
+French, Spanish
+Fusion
+Fusion, Asian, Italian
+Fusion, French, American
+Fusion, Hawaiian, Japanese
+Fusion, Indian, Moroccan, Creole
+German
+Greek
+Greek Inspired
+Greek Inspired, American
+Greek Inspired, American, Greek
+Greek Inspired, Greek
+Greek, African
+Greek, American, Fusion
+Greek, Indian
+Greek, Italian, Mediterranean
+Greek, Lebanese
+Greek, Lebanese, Mediterranean
+Greek, Lebanese, Mediterranean, Middle Eastern
+Greek, Lebanese, Middle Eastern
+Greek, Lebanese, Middle Eastern, Turkish
+Greek, Mediterranean
+Greek, Mexican
+Greek, Middle Eastern
+Greek, Moroccan
+Greek, Portuguese
+Greek, Spanish
+Greek, Turkish
+Hawaiian
+Hungarian
+Hungarian, American
+Hungarian, Eastern European
+Indian
+Indian Inspired
+Indian Inspired, American
+Indian Inspired, American, British
+Indian Inspired, American, Middle Eastern, Indian
+Indian Inspired, Indian
+Indian Inspired, Indian, Asian
+Indian Inspired, Indian, Mexican, Fusion
+Indian, American
+Indian, Italian
+Indian, Japanese
+Indian, Lebanese, Malaysian, Middle Eastern, Turkish
+Indian, Lebanese, Middle Eastern
+Indian, Malaysian
+Indian, Mexican
+Indian, Middle Eastern
+Indian, Spanish, Turkish
+Indian, Turkish
+Indonesian
+Indonesian, Asian
+Inspired
+Inspired, American
+Inspired, Irish
+Inspired, Italian
+Inspired, Middle Eastern
+Inspired, South American
+Iranian
+Irish
+Irish, American
+Israeli
+Israeli, African
+Israeli, American
+Israeli, Middle Eastern
+Italian
+Italian Inspired
+Italian Inspired, American
+Italian Inspired, American, Italian
+Italian Inspired, American, Italian, Fusion
+Italian Inspired, Italian
+Italian Inspired, Italian, Irish
+Italian Inspired, Mexican
+Italian, American
+Italian, Japanese
+Italian, Mediterranean
+Italian, Mexican
+Italian, Turkish
+Jamaican
+Jamaican, American
+Jamaican, American, Caribbean
+Jamaican, Caribbean
+Japanese
+Japanese Inspired, Japanese
+Japanese, Mexican
+Jewish
+Jewish, American
+Jewish, American, Kosher
+Jewish, Eastern European, Kosher
+Jewish, Irish
+Jewish, Kosher
+Jewish, Middle Eastern
+Jewish, Polish
+Korean
+Korean, Mexican
+Kosher
+Latin
+Latin American
+Latin American, Caribbean
+Latin American, Latin
+Latin American, Mexican
+Latin American, South American
+Latin, Mexican
+Lebanese
+Lebanese, American
+Lebanese, Mediterranean, Middle Eastern
+Lebanese, Mexican, Middle Eastern, Spanish
+Lebanese, Middle Eastern
+Lebanese, Middle Eastern, Moroccan
+Lebanese, Middle Eastern, Spanish
+Lebanese, Middle Eastern, Turkish
+Lebanese, Turkish
+Malaysian
+Malaysian, Asian
+Malaysian, Indian, Fusion
+Malaysian, Singaporean
+Maori
+Mediterranean
+Mediterranean Inspired
+Mediterranean Inspired, American
+Mediterranean Inspired, Greek
+Mediterranean Inspired, Italian
+Mediterranean Inspired, Middle Eastern
+Mediterranean, Mexican
+Mediterranean, Middle Eastern
+Mediterranean, Middle Eastern, Moroccan
+Mediterranean, Moroccan
+Mediterranean, South American
+Mediterranean, Spanish
+Mexican
+Mexican Inspired
+Mexican Inspired, American
+Mexican Inspired, American, Mexican
+Mexican Inspired, Caribbean
+Mexican Inspired, Fusion, Mexican, Asian
+Mexican Inspired, Italian
+Mexican Inspired, Latin
+Mexican Inspired, Mexican
+Mexican Inspired, South American
+Mexican Inspired, Spanish
+Mexican Inspired, Tex-Mex
+Mexican, American
+Mexican, Asian
+Mexican, Copycat
+Mexican, Fusion
+Mexican, Fusion, American
+Mexican, Latin, South American
+Mexican, South American
+Mexican, Spanish
+Middle Eastern
+Middle Eastern Inspired
+Middle Eastern Inspired, American
+Middle Eastern Inspired, American, Fusion
+Middle Eastern Inspired, Greek
+Middle Eastern Inspired, Greek, American
+Middle Eastern Inspired, Indian
+Middle Eastern Inspired, Middle Eastern
+Middle Eastern, Mexican
+Middle Eastern, Moroccan
+Middle Eastern, Moroccan, Spanish
+Middle Eastern, Spanish, Turkish
+Middle Eastern, Turkish
+Moroccan
+Moroccan, Spanish
+Native American
+Native American, American
+New England
+New England, American
+New England, French
+New England, Italian
+New Zealand
+New Zealand, American
+New Zealand, Australian
+New Zealander
+North African
+North African, African
+North American
+North American, American
+Norwegian
+Norwegian, Dutch
+Norwegian, Scandinavian
+Oceanic
+Oceanic, American
+Other
+Pakistani
+Pakistani, Asian
+Pakistani, Indian
+Pakistani, Middle Eastern, Indian
+Pennsylvania Dutch
+Pennsylvania Dutch, American
+Persian
+Persian, Asian
+Persian, Middle Eastern
+Peruvian
+Peruvian, American
+Peruvian, South American
+Peruvian, South American, American
+Peruvian, South American, Spanish
+Peruvian, Spanish
+Philippines
+Polish
+Polish, American
+Portuguese
+Portuguese, African
+Portuguese, American
+Portuguese, Fusion
+Portuguese, Latin
+Portuguese, South American
+Portuguese, Spanish
+Portuguese, Spanish, Italian, American
+Puerto Rican
+Puerto Rican, American, Caribbean
+Puerto Rican, American, Caribbean, Latin
+Puerto Rican, American, Latin, Caribbean
+Puerto Rican, Caribbean
+Puerto Rican, Caribbean, Latin
+Puerto Rican, Latin, Caribbean, American
+Puerto Rican, Mexican
+Puerto Rican, South American
+Puerto Rican, Spanish
+Russian
+Russian, American
+Russian, Asian
+Russian, Eastern European
+Russian, Eastern European, Italian
+Russian, German
+Russian, Italian, Eastern European
+Russian, Polish
+Salvadoran
+Salvadoran, American
+Salvadoran, South American
+Scandinavian
+Scandinavian, British
+Scottish
+Scottish, Irish
+Sichuan
+Sicilian
+Sicilian, Italian
+South African
+South African, African
+South African, American
+South American
+South American, Spanish
+South And Central Asian
+Southern
+Southern, African, Cajun
+Southern, American
+Southern, Cajun
+Southern, Creole
+Southern, Fusion, Asian
+Southwestern
+Southwestern, American
+Southwestern, American, Tex-Mex
+Southwestern, Mexican
+Southwestern, Southern
+Southwestern, Tex-Mex
+Southwestern, Tex-Mex, Mexican
+Spanish
+Spanish, American
+Spanish, Italian
+Sri Lankan
+Sri Lankan, Asian
+Swedish
+Swedish, American
+Swedish, Dutch
+Swedish, Eastern European
+Swedish, German
+Swedish, Scandinavian
+Swedish, Scandinavian, American
+Swiss
+Swiss, American
+Syrian
+Syrian, Middle Eastern
+Tex Mex
+Tex Mex, American
+Tex Mex, American, Mexican, Tex-Mex
+Tex Mex, American, Tex-Mex
+Tex Mex, French
+Tex Mex, Spanish
+Tex Mex, Tex-Mex
+Tex-Mex
+Tex-Mex, Mexican
+Thai
+Thai Inspired
+Thai Inspired, Asian
+Tunisian
+Turkish
+Turkish, American
+Turkish, Middle Eastern
+Turkish, Middle Eastern, American
+U.S.
+U.S., American
+U.S., American, British
+U.S., American, Italian
+U.S., American, Mexican
+U.S., American, Tex-Mex
+U.S., British, Scottish
+U.S., Dutch
+U.S., Eastern European
+U.S., French
+U.S., German, Eastern European
+U.S., Greek
+U.S., Hawaiian
+U.S., Italian
+U.S., Japanese
+U.S., Kosher
+U.S., Mexican
+U.S., Middle Eastern
+U.S., Polish
+U.S., Scandinavian
+U.S., Southern
+U.S., Spanish
+U.S., Tex-Mex
+U.S., Thai
+Uk And Ireland
+Uk And Ireland, American
+Uk And Ireland, British
+Ukrainian
+Ukrainian, American, Eastern European
+Ukrainian, Eastern European
+Ukrainian, Polish
+Venezuelan
+Venezuelan, American
+Venezuelan, South American
+Vietnamese
+West African
+West African, African
+World
+World, African
+World, American
+World, Asian
+World, British
+World, Chinese
+World, Italian
+World, Japanese
+World, Kosher
